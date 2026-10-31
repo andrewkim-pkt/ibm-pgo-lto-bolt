@@ -1,0 +1,8 @@
+base-r1	streams=4	queries=60/60	fail=0	wall_s=1187.4	queries_per_hour=181.9	valid=yes
+pgoltob-r1	streams=4	queries=60/60	fail=0	wall_s=1107.6	queries_per_hour=195.0	valid=yes
+pgoltob-r2	streams=4	queries=60/60	fail=0	wall_s=1105.4	queries_per_hour=195.4	valid=yes
+base-r2	streams=4	queries=60/60	fail=0	wall_s=1185.9	queries_per_hour=182.1	valid=yes
+base-r3	streams=4	queries=60/60	fail=0	wall_s=1186.9	queries_per_hour=182.0	valid=yes
+pgoltob-r3	streams=4	queries=60/60	fail=0	wall_s=1106.2	queries_per_hour=195.3	valid=yes
+pgoltob-r4	streams=4	queries=60/60	fail=0	wall_s=1112.6	queries_per_hour=194.1	valid=yes
+base-r4	streams=4	queries=60/60	fail=0	wall_s=1183.2	queries_per_hour=182.6	valid=yes
